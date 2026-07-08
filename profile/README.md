@@ -10,7 +10,7 @@ Sistema web para gerenciamento de vendas da cantina do IFC, permitindo que aluno
 
 **Links do projeto:**
 - [Documentação](https://github.com/Panificadora-Pires/.github)
-- Backend: Repositório e Publicação — (colocar link)
+- Backend: [Repositório](https://github.com/Panificadora-Pires/backend-pires) e Publicação
 - Frontend: Repositório e Publicação — (colocar link)
 
 ---
