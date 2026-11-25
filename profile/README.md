@@ -1,4 +1,4 @@
-# Pires Panificadora — Pedidos antecipados com retirada por QR Code
+# Panificadora Pires — Pedidos antecipados com retirada por QR Code
 
 Sistema web (PWA) em que alunos e a comunidade escolar do IFC Araquari escolhem o lanche, pagam por Pix, cartão ou em dinheiro na retirada e buscam o pedido no balcão mostrando um QR Code. A equipe da padaria acompanha a fila de produção, confirma a retirada, conversa com o cliente sobre o pedido e consulta relatórios de vendas.
 
